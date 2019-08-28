@@ -16,4 +16,8 @@ Developer:
    5. testcases result
    6. findbugs,checkstyle,pmd
 
-QA Team
+QA Team:
+   1. run test cases throguh CI
+   2. test results
+   3. Load testing
+  
