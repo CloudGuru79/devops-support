@@ -7,6 +7,13 @@ Sonarqube
 
 JfrogArtifactory
 
-Deveoper
+Developer:
+
+   1. build 
+   2. unit-test
+   3. test coverage
+   4. vulnerabilities
+   5. testcases result
+   6. findbugs,checkstyle,pmd
 
 QA Team
