@@ -1,1 +1,31 @@
 
+GitHub
+  webhooks 
+  Branching strategy
+
+Jenkins:
+  1. integrate with build agent
+  2. pipeline job creation
+
+Sonarqube:
+  1. code coverage report
+  2. test report
+
+JfrogArtifactory:
+  3. release and snapshot repos
+  4. docker images and artifacts storage
+  5. dependecies can download from Jfrog
+  
+Developer:
+
+   1. build 
+   2. unit-test
+   3. test coverage
+   4. vulnerabilities
+   5. testcases result
+   6. findbugs,checkstyle,pmd
+
+QA Team:
+   1. run test cases throguh CI
+   2. test results
+   3. Load testing
